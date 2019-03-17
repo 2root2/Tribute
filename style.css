@@ -5,7 +5,7 @@ body {
 
 .firepit {
   position: absolute;
-  bottom: 0;
+  bottom: 3%;
   right: 0%;
 }
 
@@ -178,6 +178,6 @@ body {
   }
 }
 
-.timeline-Widget {
-	background-color: #000 !important;
-}
+.img-margin {
+    margin: 20px;
+  }
