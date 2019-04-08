@@ -1,6 +1,6 @@
 body {
   background: #000000;
-  padding: 40px 0px;
+  padding-top: 40px;
 }
 
 .firepit {
@@ -188,4 +188,20 @@ body {
     font-weight: 100;
     vertical-align: middle;
     margin-bottom: 20px;
+}
+
+.gh-link {
+  color: #fff;
+}
+
+.gh-link:hover {
+  color: #fff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+footer {
+  padding: 20px;
+  background-color: #ffffff3b;
+  margin-top: 10px;
 }
